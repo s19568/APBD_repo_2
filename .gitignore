@@ -15,9 +15,11 @@
 .idea/**/dictionaries
 .idea/**/shelf
 
+
 .idea/*
 *.csproj
 *.sln
+
 
 # AWS User-specific
 .idea/**/aws.xml
