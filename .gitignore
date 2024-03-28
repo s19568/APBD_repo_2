@@ -15,6 +15,10 @@
 .idea/**/dictionaries
 .idea/**/shelf
 
+.idea/*
+*.csproj
+*.sln
+
 # AWS User-specific
 .idea/**/aws.xml
 
@@ -488,6 +492,7 @@ FodyWeavers.xsd
 
 # JetBrains Rider
 *.sln.iml
+*.sln
 
 ##
 ## Visual studio for Mac
