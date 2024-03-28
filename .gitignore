@@ -15,6 +15,11 @@
 .idea/**/dictionaries
 .idea/**/shelf
 
+.idea/.idea/**/.idea/.gitignore
+.idea/.idea/**/.idea/encodings.xml
+.idea/.idea/**/.idea/indexLayout.xml
+.idea/.idea/**/.idea/vcs.xml
+
 # AWS User-specific
 .idea/**/aws.xml
 
